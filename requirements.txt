@@ -2,3 +2,4 @@ jupyterlab
 torch
 matplotlib
 tensorflow
+tiktoken
