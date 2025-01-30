@@ -167,3 +167,4 @@ scratchpad/
 
 # PyTorch models
 *.pth
+gpt2/
