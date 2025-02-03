@@ -1,6 +1,7 @@
 jupyterlab
-torch
 matplotlib
+pandas
 tensorflow
 tiktoken
+torch
 tqdm

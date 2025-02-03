@@ -168,3 +168,7 @@ scratchpad/
 # PyTorch models
 *.pth
 gpt2/
+
+*.tsv
+*.csv
+*.zip
