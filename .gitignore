@@ -173,3 +173,4 @@ gpt2/
 *.csv
 *.zip
 *.pdf
+*.json
